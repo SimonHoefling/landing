@@ -1,0 +1,12 @@
+.copyright-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  background-color: #000000;
+}
+.copyright-text {
+  color: white;
+  margin: 0;
+}
